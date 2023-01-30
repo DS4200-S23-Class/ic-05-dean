@@ -3,6 +3,7 @@ ic-05 - Intro to JavaScript
 
 Link to GitHub Pages: `https://ds4200-s23-class.github.io/ic-05-yoonpatrick3-deanframe/`
 
+
 ## Purpose
 
 The purpose of this assignment is to practice creating an interactive webpage with JavaScript.  
